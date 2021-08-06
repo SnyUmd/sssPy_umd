@@ -9,6 +9,7 @@ def btn_Click():
     print(fle)
 
 
+
 # Tkクラス生成
 frm = tkinter.Tk()
 # 画面サイズ
